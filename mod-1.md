@@ -1,1 +1,2 @@
-[Differences between SharePoint Server 2016 and 2019](https://support.microsoft.com/en-us/office/differences-between-sharepoint-server-2016-and-2019-ba84c8a3-3ce2-4252-926e-c67654ceb4a3)
+- [Differences between SharePoint Server 2016 and 2019](https://support.microsoft.com/en-us/office/differences-between-sharepoint-server-2016-and-2019-ba84c8a3-3ce2-4252-926e-c67654ceb4a3)
+- [sharepoint docs](https://learn.microsoft.com/en-us/sharepoint/getting-started)
