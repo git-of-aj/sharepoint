@@ -1,5 +1,8 @@
 - [Differences between SharePoint Server 2016 and 2019](https://support.microsoft.com/en-us/office/differences-between-sharepoint-server-2016-and-2019-ba84c8a3-3ce2-4252-926e-c67654ceb4a3)
 - [sharepoint docs](https://learn.microsoft.com/en-us/sharepoint/getting-started)
+- **SKillable labs**:
+1. [55355A – SharePoint 2016 Administrator](https://koenig-solutions.learnondemand.net/Course/33976)
+2. [55298A Introduction to SharePoint 2019](https://koenig-solutions.learnondemand.net/Course/24869)
 
 ## Intro 
 [COmpany's sharepoint](https://koenigsolutionsltd.sharepoint.com/_layouts/15/sharepoint.aspx)
