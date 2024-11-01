@@ -56,3 +56,31 @@ Information architecture covers six main elements that relate to way finding in 
 - Hub navigation for groups of related sites
 - Local navigation of an individual site
 [Example screenshots from MS Docs](https://learn.microsoft.com/en-us/sharepoint/information-architecture-modern-experience)
+
+## logical infra 
+1. SharePoint farm runs on one or more 
+
+servers and typically consists of several web 
+
+applications and service applications. The farm 
+
+configuration database stores the web 
+
+application details and the service application 
+
+associations within the farm, and there is only 
+
+one farm configuration database per farm.
+
+2. **Service applications (basically a code running over IIS)** . Service applications 
+
+provide specific functionality to web 
+
+applications within the farm or many sérvjce app => 1 web app 
+
+`web app => app proxy => service app`
+
+3. sites: just like folders in NSD (NETWORK SHARED DRIVE) : Create @ dept level / project put file web content, worflows etc 
+
+4. site collection 
+
