@@ -91,3 +91,73 @@ of that particular site collection, and it has the shortest URL of all sites wit
 
 addition, some site collection settings are accessible only from the top-level site settings page.
 
+5. Content database. Each content database runs on SQL Server, and stores the content from one or 
+
+more site collections. A content database can only be associated with one web application at a time.
+
+site: 
+
+> SharePoint refers to the information used to categorize and classify content as *metadata*
+
+## Information architecture 
+1. Site columns. You can create site columns at the site level to store metadata as an additional column
+- cant be inherited across site collection
+2. term set
+3. document set
+4. content type
+
+```sh
+Demonstration: Examining SharePoint 2016 Central Administration 
+
+In this demonstration, you will learn about the: 
+
+• New service applications 
+
+• Changes to the Search Service Application 
+
+• Changes to web applications 
+
+• New site templates 
+
+Demonstration Steps 
+
+1. Sign in to NYC-SP1 with the user name CONTOSO\Administrator, and the password Pa$$w0rd. 
+
+2. Go to the Start screen, and then click SharePoint 2016 Management Shell. 
+
+3. Type the following command, and then press Enter: 
+
+psconfig.exe –help configdb 
+
+4. Scroll to the top of the output and notice the new –localserverrole cmdlet and the six roles possible 
+
+with the MinRole farm topology. 
+
+5. Exit the SharePoint 2016 Management Shell. 
+
+6. Go to the Central Administration site. 
+
+7. On the Home page, click System Settings, and then on the System Settings page, under Servers, 
+
+click Convert server role in this farm. 
+
+8. Click the New Role drop-down list box, and notice that the same six roles are available. Do not 
+
+change the current setting. 
+
+ Note: The PowerShell WebFrontEnd is equivalent to the SharePoint 2016 Central 
+
+Administration’s drop-down option Front End. 
+
+9. Click Cancel. 
+
+10. In a new browser tab, navigate to http://sharepoint.contoso.com. 
+
+11. If prompted, sign in with administrator as the user name and Pa$$w0rd as the password. 
+
+12. In the left navigation pane, click Documents. 
+
+13. Create a new folder, and name the folder This…is…a {test} of the expanded & special characters.
+
+```
+  
