@@ -160,4 +160,12 @@ Administration’s drop-down option Front End.
 13. Create a new folder, and name the folder This…is…a {test} of the expanded & special characters.
 
 ```
-  
+## sharepoint online
+- supports on prem
+- many features of on prem are not supported 
+
+## sharepoint hybrid 
+- Hybrid deployments can use single sign-on, so that users only need to authenticate once by using an AD DS user account to gain 
+access to both on-premises SharePoint farms and SharePoint Online
+- cloud hybrid search to provide search results that encompass both on-premises SharePoint farms and 
+SharePoint Online content for users of both environments.
