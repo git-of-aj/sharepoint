@@ -169,3 +169,21 @@ Administration’s drop-down option Front End.
 access to both on-premises SharePoint farms and SharePoint Online
 - cloud hybrid search to provide search results that encompass both on-premises SharePoint farms and 
 SharePoint Online content for users of both environments.
+
+> Things to remember: 
+
+• Define your organization’s term sets before implementing SharePoint sites. This helps you create a 
+
+better experience for your users in terms of data storage and retrieval. 
+
+• Because SharePoint 2016 does not support single-server farms, you must plan for more hardware and 
+
+decide on the exact roles that should run on the farm servers. 
+
+• Implement new encryption, SMTP port settings, and IRM to provide a more secure environment. 
+
+• To utilize the Excel Services fully, you need a combination of SharePoint 2016 and Microsoft SQL 
+
+Server 2016. 
+
+• SharePoint 2016 allows you to create a more seamless hybrid environment.
