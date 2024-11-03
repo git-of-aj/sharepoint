@@ -100,6 +100,8 @@ site:
 > SharePoint refers to the information used to categorize and classify content as *metadata*
 
 ## Information architecture 
+> Just like Grocery Store arranges
+food 
 1. Site columns. You can create site columns at the site level to store metadata as an additional column
 - cant be inherited across site collection
 2. term set
