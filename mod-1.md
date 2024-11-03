@@ -83,5 +83,11 @@ applications within the farm or many sérvjce app => 1 web app
 
 3. sites: just like folders in NSD (NETWORK SHARED DRIVE) : Create @ dept level / project put file web content, worflows etc 
 
-4. site collection 
+4. site collection: When you create a new site collection, a special site known as a 
+
+top-level site is created within the site collection. The top-level site is the highest site in the hierarchy 
+
+of that particular site collection, and it has the shortest URL of all sites within that site collection. In 
+
+addition, some site collection settings are accessible only from the top-level site settings page.
 
