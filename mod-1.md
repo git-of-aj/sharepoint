@@ -7,6 +7,9 @@
 
 ## Intro 
 [COmpany's sharepoint](https://koenigsolutionsltd.sharepoint.com/_layouts/15/sharepoint.aspx)
+![image](https://github.com/user-attachments/assets/f29f0b85-2af1-4cdf-888b-bc1cce7d2962)
+- [explain here](https://support.nhs.net/knowledge-base/sharepoint-best-practice-guidance-site-structure/)
+
 - **Example of features**:
 ### Example: Project Management for a New Product Launch
 
@@ -35,7 +38,12 @@
 
 ### Summary:
 In this scenario, SharePoint 2016 enables effective collaboration and management of resources across various functionalities, ensuring a successful and well-coordinated product launch.
-
+## Logical archi
+- Service applications are different SharePoint features which you can configure and share among different web applications. There are lot of built-in service applications which you can configure and benefit from.
+Applications - if you are referring to custom applications, are the one you can develop using Browser, SharePoint Designer or Visual Studio to introduce new functionality into your solution.
+> A Web application is composed of an Internet Information Services (IIS) Web site that acts as a logical unit for the site collections that you create. Before you can create a site collection, you must first create a Web application.
+Each Web application is represented by a different IIS Web site with a unique or shared application pool. You can assign each Web application a unique domain name, which helps to prevent cross-site scripting attacks.
+- The SharePoint config database is used by central administration to help manage all of your web applications, site collections, service applications, what's server and services are on the farm etc. The content databases are used to store the content from any web application you create such as site, documents,etc
 ## Information 
 > Information architecture is about how you organize and label your content and how your visitors interact with the content to get work done. Modern SharePoint information architecture is also about how to ensure the right content gets to the right people and follows your organization’s content compliance regulations.
 
