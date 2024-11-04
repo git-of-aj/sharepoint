@@ -1,4 +1,5 @@
 # [sharepoint](https://learn.microsoft.com/en-us/sharepoint/sharepoint-server)
+## [youtube - install 2019](https://youtu.be/Sjl3ixS_724?si=gO8GM4zXTewsS7MW)
 ## terms
 - `Office Online Server`: delivers browser-based versions of Word, PowerPoint, Excel, and OneNote. A single Office Online Server farm can support users who access Office files through SharePoint Server, Exchange Server, shared folders, and web sites. [docs](https://learn.microsoft.com/en-us/officeonlineserver/office-online-server-overview)
 - `cliconfg.exe` is a utility provided by Microsoft Windows for configuring the client settings for SQL Server. It allows users to set up and manage the network connections used by SQL Server client
