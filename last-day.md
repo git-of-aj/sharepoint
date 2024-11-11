@@ -1,0 +1,1 @@
+`(Managed Service accounts in Adds)`: MSA's allow you to create an account in Active Directory that is tied to a specific computer. That account has its own complex password and is maintained automatically.
