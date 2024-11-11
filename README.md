@@ -1,4 +1,5 @@
 - site security : https://blog.netwrix.com/2023/03/24/sharepoint-security/
+- Permission inheritance means a site inherits permissions from the root site of the site collection, and a subsite inherits permissions from its parent site. Folders, lists, and documents inherit permissions from the site that contains them, and so on.
 
 [MS Docs sharepoint security](https://learn.microsoft.com/en-us/sharepoint/security-for-sharepoint-server/security-hardening)
 
